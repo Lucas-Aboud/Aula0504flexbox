@@ -1,0 +1,129 @@
+.main{
+    display: flex;
+    justify-content:space-between;
+    height: 122px;
+    width: 100%;
+    background-color: #FFFFFF;
+    box-shadow: 0px 1px 20px 0px #8B8B8BA6;
+}
+.menu{
+    display: flex;
+    justify-content: left;
+    
+    width: 100%;
+}
+
+.logo{
+    margin-left: 19px;
+    margin-bottom: 9px;
+    margin-top: 9px;
+    width: 209px;
+    height: 104px;
+}
+li{
+    list-style: none;
+}
+.mnu{
+    font-family: Open Sans, sans serif;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-top: 44px;
+    font-size: 24px;
+    color: #777777;
+}
+h1{
+    font-family: Open Sans, sans serif; 
+    font-size: 39px;
+    text-align: center;
+    margin-top: 68px;
+    margin-bottom: 83px;
+    margin-left: 123px;
+    text-align: left;
+}
+
+.principal{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+h2{
+    display: flex;
+    color: #575757;
+    font-family: Open Sans, sans serif; 
+    font-size: 16px;
+   
+}
+
+.informacao{
+    width: 464px;
+    height: 448px;
+    margin-right: 80px;
+    margin-left: 75px;
+    margin-top: 146px;
+    margin-bottom: 198px;
+}
+.formulario{
+    width: 537px;
+    height: 560px;
+    margin-left: 123px;
+    margin-top: 36px;
+    margin-bottom: 57px;
+}
+
+form{
+    color: #9b9b9b;
+    font-family: Open Sans, sans serif; 
+    font-size: 18px;
+   
+}
+
+.pageFooter{
+    display: flex;
+    justify-content: space-between;
+    width: 99vw;
+    height: 248px;
+    background-color: #C2185B;
+}
+.footerAside{
+    margin-left: 127px;
+}
+.flogo{
+    margin-top: 19px;
+    width: 233px;
+    height: 123px;
+}
+.info{
+    width: 255px;
+    height: 91px;
+    font-family: Open Sans, sans serif; 
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.footerBside{
+    display: flex;
+    justify-content: space-between;
+     margin-right: 200px;
+}
+.fmnuinst{
+    margin-top: 56px;
+    width: 246px;
+    height: 131px;
+    font-family: Open Sans, sans serif; 
+    font-size: 16px;
+    color: #FFFFFF;
+    list-style: none;
+}
+.fmnucat{
+    margin-top: 56px;
+    width: 246px;
+    height: 131px;
+    font-family: Open Sans, sans serif; 
+    font-size: 16px;
+    color: #FFFFFF;
+    list-style: none;
+}
+.item{
+    font-weight:bold;
+}
+
