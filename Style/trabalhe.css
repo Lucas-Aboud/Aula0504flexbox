@@ -15,6 +15,7 @@ body {
 
 h2 {
     padding: 20px;
+    margin-left: 100px;
 }
 
 header {
@@ -46,7 +47,8 @@ header {
 
 .informacao {
     width: 100%;
-    padding: 20px;
+    padding: 20px 100px 100px 100px;
+    color: rgb(147, 152, 152)
 }
 
 .menu {
@@ -70,7 +72,7 @@ header {
 }
 
 .mnu li {
-    margin-right: 12px;
+    margin-right: 56px;
 }
 
 .mnu li:last-child {
@@ -84,7 +86,8 @@ header {
 
 .formulario {
     width: 100%;
-    padding: 20px;
+    padding: 20px 100px 100px 100px;
+    color: rgb(147, 152, 152);
 }
 
 .form-item {
