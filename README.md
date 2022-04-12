@@ -1,2 +1,2 @@
 # Aula0504flexbox
-Nessas aula eu prendo sopre como montar um site com flex box
+Nessas aula eu estudo sobre como montar um site com metodologias para html e css
